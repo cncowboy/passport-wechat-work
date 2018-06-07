@@ -19,7 +19,8 @@
   "dependencies": {
     "async": "^1.5.2",
     "passport-strategy": "1.x.x",
-    "request": "^2.58.0"
+    "request": "^2.58.0",
+    "urllib": "^2.2.1"
   },
   "author": "harryhan1989",
   "license": "MIT",
